@@ -1,0 +1,21 @@
+{
+  "default_duration_seconds": 30,
+  "show_credits": true,
+  "items": [
+    {
+      "url": "https://raw.githubusercontent.com/3DAnaglyph/picfeed-content/main/1.jpg",
+      "photographer": "Photographer One",
+      "year": 2024
+    },
+    {
+      "url": "https://raw.githubusercontent.com/3DAnaglyph/picfeed-content/main/2.jpg",
+      "photographer": "Photographer Two",
+      "year": 2024
+    },
+    {
+      "url": "https://raw.githubusercontent.com/3DAnaglyph/picfeed-content/main/3.jpg",
+      "photographer": "Photographer Three",
+      "year": 2024
+    }
+  ]
+}
